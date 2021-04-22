@@ -25,6 +25,7 @@ To run the following sample, you need the following prerequisites.
 **Software prerequisites**
 1. SQL Server 2016 (or higher) or an Azure SQL Database. ( **SQL Server 2019 is being used here,since it's the latest one; SQL server 2016 has been mentioned because it's the bare minimum** )
 2. SQL Server Management Studio, preferably June 2016 release or later (version >= 13.0.15000.23).
+3. Azure Virtual-Machine
 
 ## **Disclaimer**
 The code included in this sample is not intended to be used for production purposes.
