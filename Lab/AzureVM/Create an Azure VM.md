@@ -33,3 +33,11 @@
 5. Select the **Virtual Machine**
  - You'll be taken to the **Overview** section, and click on **public IP address** and it'll copy the IP just like the below picture where I've highlighted the IP address in yellow:
  
+[Public IP Address](https://user-images.githubusercontent.com/83011430/115722078-41da8e00-a39c-11eb-9e1f-ccc5fa5987f7.png)
+
+6. Next, you can either connect to the VM by clicking on the connect option present on the **Overview section** or open **Remote-Desktop-Connection(RDP)**
+
+7.Paste the IP address, and click on **Connect**
+
+8.It should ask you for your **Username** and **Password**, enter the same username and password provided while creating the VM:
+
