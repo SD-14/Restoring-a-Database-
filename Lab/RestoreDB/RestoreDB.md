@@ -16,6 +16,9 @@
 
 [RestoreDB-Option](https://user-images.githubusercontent.com/83011430/115726546-70f2fe80-a3a0-11eb-9c71-55cb74400945.png)
 
-5.Under the **General section**, select on **Device** and click on the **button with 3 dots**, it should open up a pop-up window by the name **Select Backup Devices** :
+5. Under the **General section**, select on **Device** and click on the **button with 3 dots**, it should open up a pop-up window by the name **Select Backup Devices** :
 
+[Select Backup Devices](https://user-images.githubusercontent.com/83011430/115727351-245bf300-a3a1-11eb-95d0-1fdb63331b57.png)
 
+6. Click on **Add**, and then navigate to the **Backup** folder where you saved the .bak file, click on that file and click on Ok: 
+ 
