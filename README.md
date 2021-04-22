@@ -9,4 +9,4 @@ Restore DB using Azure to MySQLserver
 
 4. [Download the .bak file](https://github.com/SD-14/Restoring-a-Database-/blob/main/Lab/RestoreDB/Download%20the%20.bak%20file.md)
 
-5.
+5.[Restoring Database](https://github.com/SD-14/Restoring-a-Database-/blob/main/Lab/RestoreDB/RestoreDB.md)
