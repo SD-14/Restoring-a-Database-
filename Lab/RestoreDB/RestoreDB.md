@@ -14,7 +14,8 @@
 
 4. After successfully connecting to the SQL server, under **Object Explorer**, right-click **Databases** and select **Restore Database** :
 
+[RestoreDB-Option](https://user-images.githubusercontent.com/83011430/115726546-70f2fe80-a3a0-11eb-9c71-55cb74400945.png)
 
-
+5.Under the **General section**, select on **Device** and click on the **button with 3 dots**, it should open up a pop-up window by the name **Select Backup Devices** :
 
 
