@@ -1,6 +1,6 @@
-#**Getting Started**
+# **Getting Started**
 
-##**Log-in to Azure portal**
+## **Log-in to Azure portal**
 
 1. Open a browser and sign in to [Azure portal](https://portal.azure.com) with the following credentials:
 -**Azure Username/Email**
