@@ -5,4 +5,4 @@ Restore DB using Azure to MySQLserver
 
 2. [Lab Requirements & Preview](https://github.com/SD-14/Restoring-a-Database-/blob/main/Lab/Lab%20Requirements%20%26%20Preview.md)
  
-3.
+3. [Azure VM](https://github.com/SD-14/Restoring-a-Database-/blob/main/Lab/AzureVM/Create%20an%20Azure%20VM.md)
