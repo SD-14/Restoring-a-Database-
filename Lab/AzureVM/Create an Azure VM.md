@@ -45,5 +45,6 @@
 
 9. Click on **Ok**, and it should start the remote session which should look like this:
 
+[Remote Session](https://user-images.githubusercontent.com/83011430/115723314-7b5fc900-a39d-11eb-82ff-572f86175dbc.png)
 
-
+10. VM was successfully created, and the user was able to successfully log into the VM
