@@ -3,8 +3,8 @@
 ## **Log-in to Azure portal**
 
 1. Open a browser and sign in to [Azure portal](https://portal.azure.com) with the following credentials:
--**Azure Username/Email**
--**Azure Password**
+- **Azure Username/Email**
+- **Azure Password**
 
 2. If you see the pop-up **Stay Signed In?**,click **No**.
 
