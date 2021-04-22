@@ -10,10 +10,10 @@ WideWorldImporters is a sample for SQL Server and Azure SQL Database.
 
 ### **Contents**
 
-[About this sample](#about-this-sample)
-- [Before you begin](#before-you-begin)
-- [Disclaimer](#disclaimer)
-- [Related links](#related-links)
+[About this sample](#about-this-sample)<br/>
+[Before you begin](#before-you-begin)<br/>
+[Disclaimer](#disclaimer)<br/>
+[Related links](#related-links)<br/>
 
 ## **About this sample**
 1. Applies to : SQL Server 2016(or higher), SQL Database
@@ -32,8 +32,7 @@ The code included in this sample is not intended to be used for production purpo
 ## **Related links**
 For more information, see these articles:
 
-[SQL Server 2019 product page](https://www.microsoft.com/en-in/sql-server/sql-server-2019)
-[SQL Server 2019 download page](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
-- **Recommend to download developer version for testing purpose**
-[Azure SQL Database product page](https://azure.microsoft.com/en-in/services/sql-database/)
-[What's new in SQL Server 2019?](https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-ver15?view=sql-server-ver15)
+-[SQL Server 2019 product page](https://www.microsoft.com/en-in/sql-server/sql-server-2019)
+-[SQL Server 2019 download page](https://www.microsoft.com/en-in/sql-server/sql-server-downloads)
+-[Azure SQL Database product page](https://azure.microsoft.com/en-in/services/sql-database/)
+-[What's new in SQL Server 2019?](https://docs.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-ver15?view=sql-server-ver15)
