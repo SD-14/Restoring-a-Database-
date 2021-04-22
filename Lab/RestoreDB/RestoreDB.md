@@ -10,6 +10,11 @@
 
 3. Open **SQL Server Management Studio**, and connect to the **VM SQL Server** :
 
+[SQL Server Connect](https://user-images.githubusercontent.com/83011430/115725948-e6120400-a39f-11eb-8cab-c3d5c6b50c5b.png)
+
+4. After successfully connecting to the SQL server, under **Object Explorer**, right-click **Databases** and select **Restore Database** :
+
+
 
 
 
