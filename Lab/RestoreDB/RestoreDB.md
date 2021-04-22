@@ -25,3 +25,10 @@
 [File Added](https://user-images.githubusercontent.com/83011430/115727819-992f2d00-a3a1-11eb-8744-febcc6425a4c.png)
 
 7. Once done with this, under **Destination**, the database name should appear, and should look like this :
+
+[Source & Destination Path](https://user-images.githubusercontent.com/83011430/115728399-1d81b000-a3a2-11eb-8add-993b937b1a0c.png)
+
+8. Click on **Ok**, and the **Restoring Database operation** should begin.
+
+9. Once this is complete, go back to **SQL Server Management Studio** and click on refresh button under **Object Explorer**, the database should show up :
+
