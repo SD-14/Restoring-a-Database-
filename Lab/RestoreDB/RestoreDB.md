@@ -32,3 +32,4 @@
 
 9. Once this is complete, go back to **SQL Server Management Studio** and click on refresh button under **Object Explorer**, the database should show up :
 
+[Database Restored](https://user-images.githubusercontent.com/83011430/115728992-a3056000-a3a2-11eb-9ad2-7f14332cacda.png)
