@@ -11,9 +11,9 @@ WideWorldImporters is a sample for SQL Server and Azure SQL Database.
 ### **Contents**
 
 [About this sample](#about-this-sample)
-[Before you begin](#before-you-begin)
-[Disclaimer](#disclaimer)
-[Related links](#related-links)
+- [Before you begin](#before-you-begin)
+- [Disclaimer](#disclaimer)
+- [Related links](#related-links)
 
 ## **About this sample**
 1. Applies to : SQL Server 2016(or higher), SQL Database
