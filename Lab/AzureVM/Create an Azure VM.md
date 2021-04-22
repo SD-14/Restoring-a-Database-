@@ -37,7 +37,13 @@
 
 6. Next, you can either connect to the VM by clicking on the connect option present on the **Overview section** or open **Remote-Desktop-Connection(RDP)**
 
-7.Paste the IP address, and click on **Connect**
+7. Paste the IP address, and click on **Connect**
 
-8.It should ask you for your **Username** and **Password**, enter the same username and password provided while creating the VM:
+8. It should ask you for your **Username** and **Password**, enter the same username and password provided while creating the VM:
+
+[Authentication](https://user-images.githubusercontent.com/83011430/115723001-28861180-a39d-11eb-9e04-96665e516599.png)
+
+9. Click on **Ok**, and it should start the remote session which should look like this:
+
+
 
